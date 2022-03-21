@@ -29,4 +29,4 @@ jobs:
         gitee-password: ${{ secrets.GITEE_PASSWORD }}
         # 注意替换为你的 Gitee 仓库
         gitee-repo: Poetries1/img
-        directory: .
+        directory: resources
