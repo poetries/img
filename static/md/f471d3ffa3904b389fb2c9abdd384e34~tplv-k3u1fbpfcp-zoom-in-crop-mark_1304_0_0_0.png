@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8' ?>
-<Error>
-	<Code>NoSuchKey</Code>
-	<Message>The specified key does not exist.</Message>
-	<Resource>repo-img-1253419985.cos.ap-guangzhou.myqcloud.com/md/f471d3ffa3904b389fb2c9abdd384e34~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.png</Resource>
-	<RequestId>NjIzZDNmYTFfMjFjZDNiMGJfODY1NF8yNjg3YzU5</RequestId>
-	<TraceId>OGVmYzZiMmQzYjA2OWNhODk0NTRkMTBiOWVmMDAxODc0OWRkZjk0ZDM1NmI1M2E2MTRlY2MzZDhmNmI5MWI1OTVmYzc0YmEzZDg5YTVjMDA4YzA3ZWY5ZjQwZTE2ZGU1OTBkOWM3Zjk5NmI0ZmE4M2VjOGIwNDRhMTFkNjU1NjA=</TraceId>
-</Error>
-
